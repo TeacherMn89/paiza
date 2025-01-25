@@ -1,0 +1,165 @@
+.obyv{
+    width: 70px;
+}
+
+header{
+    background-image: linear-gradient(to left, yellow, white, orange);
+    
+    border-radius: 25px;
+}
+
+.skidka{
+    color: black;
+    text-decoration: none;
+    border: 3px solid red;
+    border-radius: 100px;
+    background-color: greenyellow;
+    font-size: 20px;
+    
+}
+
+.eh1{
+    text-align: center;
+    color: red;
+    border: 3px solid orange;
+    border-radius: 100px;
+    background-color: orange;
+}
+
+body{
+    background-image: linear-gradient(to left, black, orange);
+}
+
+
+
+.obyv5{
+    justify-content: center;
+    width: 350px;
+    border: 3px solid yellow;
+    border-radius: 100px;
+}
+.obyv6{
+    justify-content: center;
+    width: 350px;
+    border: 3px solid yellow;
+    border-radius: 100px;
+}
+.obyv7{
+    justify-content: center;
+    width: 350px;
+    border: 3px solid yellow;
+    border-radius: 100px;
+}
+
+span{
+    border-bottom: 3px dotted red;
+    color: black;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+.eh2{
+    text-align: center;
+    color: rgb(0, 255, 13);
+    background-image: linear-gradient(to left, red, blue);
+    border-radius: 56px;
+    font-size: 35px;
+    padding: 15px;
+}
+
+.image{
+    width: 100px;
+    background-color: black;
+}
+
+
+nav a{
+    transition: 0.3s;
+    position: fixed;
+    left: -80px;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+    left: -80;
+}
+
+.luch{
+    top: 70px;
+    background-image: linear-gradient(to left, red, black);
+}
+
+.novaa{
+    top: 150px;
+    background-image: linear-gradient(to left, greenyellow, rgb(0, 247, 255));
+}
+
+nav a:hover{
+    left: 0;
+}
+
+.skidka:hover{
+    background-image: linear-gradient(to left, brown, white, blue);
+}
+
+.arbyz{
+    background-image: linear-gradient(to left, blue, red);
+    top: 230px;
+}
+
+.obyv4{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    border: blue solid 3px;
+    border-radius: 100px;
+    text-align: center;
+    background-color: blue;
+}
+
+.polynuchka{
+    top: 310px;
+    background-image: linear-gradient(to left, yellow, black);
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0 auto; 
+}
+
+.ehik1{
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to left, red, greenyellow);
+}
+
+.eh3{
+    color: red;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-image: linear-gradient(to left, yellow, white);
+}
+
+.divchik{
+    border: 5px solid red;
+    border-radius: 25px;
+}
+
+.obyv8{
+    margin: 10px;
+    justify-content: center;
+    width: 350px;
+    border: 3px solid red;
+    border-radius: 100px;
+}
